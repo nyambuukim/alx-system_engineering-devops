@@ -4,7 +4,6 @@
 -   By Sylvain Kalache, co-founder at Holberton School
 -   Weight: 1
 
-
 Background Context
 ------------------
 
